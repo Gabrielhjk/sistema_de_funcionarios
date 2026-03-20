@@ -7,15 +7,15 @@ Sistema simples para gerenciamento de funcionários, desenvolvido com foco em ap
 
 Este projeto tem como objetivo simular um sistema básico de cadastro e gerenciamento de funcionários, permitindo aplicar conceitos importantes como:
 
-Programação Orientada a Objetos (POO)
+- Programação Orientada a Objetos (POO)
 
-Encapsulamento
+- Encapsulamento
 
-Classes e objetos
+- Classes e objetos
 
-Métodos getters e setters
+- Métodos getters e setters
 
-Organização de código em pacotes
+- Organização de código em pacotes
 
 
 🛠️ Tecnologias utilizadas
@@ -40,13 +40,13 @@ sistema_de_funcionarios/
 
 📌 Funcionalidades
 
-Cadastro de funcionários
+- Cadastro de funcionários
 
-Armazenamento de nome e idade
+- Armazenamento de nome e idade
 
-Métodos para acessar e modificar dados
+- Métodos para acessar e modificar dados
 
-Estrutura simples realizada para aprendizado
+- Estrutura simples realizada para aprendizado
 
 
 ▶️ Como executar o projeto
@@ -75,11 +75,11 @@ java Main
 
 Este projeto foi desenvolvido com foco educacional, sendo ideal para quem está iniciando em:
 
-Java
+- Java
 
-Lógica de programação
+- Lógica de programação
 
-Programação Orientada a Objetos
+- Programação Orientada a Objetos
 
 
 📄 Licença
