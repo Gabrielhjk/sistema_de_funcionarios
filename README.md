@@ -23,14 +23,16 @@ Organização de código em pacotes
 💻 IDE - VS Code
 
 📂 Estrutura do Projeto
-´´´sistema_de_funcionarios/
+```
+sistema_de_funcionarios/
 │
 ├── src/
 │   └── desafio_2/
 │       ├── Person.java
 │       ├── (outras classes...)
 │
-└── README.md´´´
+└── README.md
+```
 
 📌 Funcionalidades
 
