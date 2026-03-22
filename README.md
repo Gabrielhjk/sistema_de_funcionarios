@@ -1,9 +1,9 @@
-📋 Sistema de Funcionários
+**📋 Sistema de Funcionários**
 
 Sistema simples para gerenciamento de funcionários, desenvolvido com foco em aprendizado de programação orientada a objetos em Java.
 
 
-🚀 Objetivo
+**🚀 Objetivo**
 
 Este projeto tem como objetivo simular um sistema básico de cadastro e gerenciamento de funcionários, permitindo aplicar conceitos importantes como:
 
@@ -18,14 +18,14 @@ Este projeto tem como objetivo simular um sistema básico de cadastro e gerencia
 - Organização de código em pacotes
 
 
-🛠️ Tecnologias utilizadas
+**🛠️ Tecnologias utilizadas**
 
 ☕ Java
 
 💻 IDE - VS Code
 
 
-📂 Estrutura do Projeto
+**📂 Estrutura do Projeto**
 ```
 sistema_de_funcionarios/
 │
@@ -38,7 +38,7 @@ sistema_de_funcionarios/
 ```
 
 
-📌 Funcionalidades
+**📌 Funcionalidades**
 
 - Cadastro de funcionários
 
@@ -49,7 +49,7 @@ sistema_de_funcionarios/
 - Estrutura simples realizada para aprendizado
 
 
-▶️ Como executar o projeto
+**▶️ Como executar o projeto**
 
 Clone o repositório:
 ```
@@ -71,7 +71,7 @@ Execute o programa:
 java Main
 ```
 
-📚 Aprendizados
+**📚 Aprendizados**
 
 Este projeto foi desenvolvido com foco educacional, sendo ideal para quem está iniciando em:
 
@@ -82,9 +82,9 @@ Este projeto foi desenvolvido com foco educacional, sendo ideal para quem está 
 - Programação Orientada a Objetos
 
 
-📄 Licença
+**📄 Licença**
 
 Este projeto está sob a licença MIT.
 
 
-ESSE ARQUIVO README FOI DESENVOLVIDO COM AUXILIO DE IA.
+**ESSE ARQUIVO README FOI DESENVOLVIDO COM AUXILIO DE IA.**
