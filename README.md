@@ -1,4 +1,4 @@
-**#📋 Sistema de Funcionários**
+#**📋 Sistema de Funcionários**
 
 Sistema simples para gerenciamento de funcionários, desenvolvido com foco em aprendizado de programação orientada a objetos em Java.
 
