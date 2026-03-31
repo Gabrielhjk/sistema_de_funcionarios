@@ -1,9 +1,9 @@
-#**📋 Sistema de Funcionários**
+**📋 Sistema de Funcionários**
 
 Sistema simples para gerenciamento de funcionários, desenvolvido com foco em aprendizado de programação orientada a objetos em Java.
 
 
-**##🚀 Objetivo**
+**🚀 Objetivo**
 
 Este projeto tem como objetivo simular um sistema básico de cadastro e gerenciamento de funcionários, permitindo aplicar conceitos importantes como:
 
